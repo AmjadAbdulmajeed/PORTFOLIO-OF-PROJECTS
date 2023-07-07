@@ -30,7 +30,7 @@ Please read on and take a look! Your feedback and suggestions are greatly apprec
 
 - **Repository:** https://github.com/AmjadAbdulmajeed/Coaching-Institute-Management-Project-
   
-- **Description:** The "Coaching Management" project is designed to facilitate the management of bookings, students, teachers, courses, and other related aspects. Course information is stored in a Salesforce custom object called "Course," and registrations are also stored in Salesforce. This enables easy tracking of the number of attendees for each course. The project utilizes Sales Cloud to store comprehensive information about courses, course organizers, course trainers, course students, and even the locations of the courses.
+- **Description:** The "Coaching Institute Management" project is designed to facilitate the management of bookings, students, teachers, courses, and other related aspects. Course information is stored in a Salesforce custom object called "Course," and registrations are also stored in Salesforce. This enables easy tracking of the number of attendees for each course. The project utilizes Sales Cloud to store comprehensive information about courses, course organizers, course trainers, course students, and even the locations of the courses.
 
  
 
