@@ -1,4 +1,6 @@
-# Salesforce DX Project: Next Steps
+# Salesforce Coaching Institute Management Project
+
+![1](https://github.com/AmjadAbdulmajeed/Saleforce-Coaching-Management-Project/assets/122358461/28a01bb2-2f8d-4d38-8ad7-bb3a75d29b1d)
 
 Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
 
