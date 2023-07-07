@@ -1,16 +1,38 @@
-# Salesforce Coaching Institute Management Project
+# Coaching Institute Management Project
 
 ![1](https://github.com/AmjadAbdulmajeed/Saleforce-Coaching-Management-Project/assets/122358461/28a01bb2-2f8d-4d38-8ad7-bb3a75d29b1d)
 
-Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
+## About
 
-## How Do You Plan to Deploy Your Changes?
+The "Coaching Management" project is designed to facilitate the management of bookings, students, teachers, courses, and other related aspects.
+Course information is stored in a Salesforce custom object called "Course," and registrations are also stored in Salesforce. This enables easy tracking of the number of attendees for each course.
+The project utilizes Sales Cloud to store comprehensive information about courses, course organizers, course trainers, course students, and even the locations of the courses.
 
-Do you want to deploy a set of changes, or create a self-contained application? Choose a [development model](https://developer.salesforce.com/tools/vscode/en/user-guide/development-models).
 
-## Configure Your Salesforce DX Project
+## This project includes the following topicst
 
-The `sfdx-project.json` file contains useful configuration information for your project. See [Salesforce DX Project Configuration](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_ws_config.htm) in the _Salesforce DX Developer Guide_ for details about this file.
+### Salesforce Admin
+  - Objects & Relationships
+  - Sharing Rules, OWD & Roles
+### Salesforce Development
+  - Apex Trigger
+  - Apex Batch Apex
+  - Future Method
+  - Integration ( Both Apex REST & REST API )
+
+## Screenshots
+
+
+![3](https://github.com/AmjadAbdulmajeed/Saleforce-Coaching-Management-Project/assets/122358461/69c02b19-c011-403f-981d-2dc4710b5e7c)
+
+
+![2](https://github.com/AmjadAbdulmajeed/Saleforce-Coaching-Management-Project/assets/122358461/64e1712b-a7e4-4c77-9d7e-ebf1957b2974)
+
+
+![4](https://github.com/AmjadAbdulmajeed/Saleforce-Coaching-Management-Project/assets/122358461/f0386a97-f7dc-48a6-8730-2cd6abde6495)
+
+
+![5](https://github.com/AmjadAbdulmajeed/Saleforce-Coaching-Management-Project/assets/122358461/ee5391dd-0b1e-47c5-b6c8-7785bcf411a5)
 
 ## Read All About It
 
